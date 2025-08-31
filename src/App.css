@@ -1,0 +1,6 @@
+
+/* Fix common inline black text declarations used in emails */
+.force-white-text, .force-white-text * {
+    color: #f1f3f5 !important;
+    background-color: transparent !important;
+}
